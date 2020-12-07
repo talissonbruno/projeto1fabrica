@@ -1,36 +1,58 @@
 # Projeto 1 Fábrica CA
 
-## Eborço
- ---> Figma 
+## Sobre
 
-## Frontend
-    ---> CSS
-    ---> JAVASCRIPT
 
-## Backend
- ---> MySQL
- ---> PHP E JAVASCRIPT
 
- ### GIT
+## Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
-git init //incial o repositorio
-git add index.html // adicionar o arquivo
-git commit -m "adicionada index.html"
-git log
-git status
-git show
-git branch dev // adicionar nova linha do tempo
-git checkout dev //acessa linha do tempo
-git merge dev //faço a unica master com dev
-git branch -D dev // excluir a linha do tempo
-git remote add origin 
-git push -u origin master
-git config credential.helper store
-git clone 
-git pull
-git merge dev
-git checkout -- //recupera um ponto da git
+## Layout
 
-## introdução MySQL
+O layout da  aplicação esta disponível no Figma:
 
-[MySQl](https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_ao_SQL)
+### Mobile
+
+### Web
+
+## Features 
+
+- [ ] Page Home 
+- [ ] Page Projeto
+- [ ] Page Notícias
+- [ ] Page Sobre
+- [ ] Rodapé
+- [ ] Responsivo
+- [ ] Implementação Mobile
+- [ ] Implementação banco de dados
+- [ ] Cadastro de Usuario
+- [ ] Cadastro de cliente
+- [ ] Cadastro de produtos 
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas forma usuadas na construção do projeto:
+
+ - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+ - [MySQl](https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_ao_SQL)
+ - [SQLite](https://www.sqlite.org/index.html)
+ - [PHP](https://www.php.net/manual/pt_BR/intro-whatis.php)
+ - [Figma](https://www.figma.com/files/recent)
+ - [GIT](https://git-scm.com/)
+
+## Licença
+
+Este projeto esta sobe a licença MIT.
