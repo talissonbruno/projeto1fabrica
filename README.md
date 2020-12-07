@@ -56,3 +56,17 @@ As seguintes ferramentas forma usuadas na construção do projeto:
 ## Licença
 
 Este projeto esta sobe a licença MIT.
+
+## Paleta de cores
+ E8E8E8
+ 52658F
+ 333A56
+ F7F5E6
+
+## Resolução 
+
+Desktop HD: 1200px
+Desktop: 1000px
+Tablet: 750px
+Phablet: 550px
+Mobile: 400px

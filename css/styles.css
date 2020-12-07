@@ -5,14 +5,16 @@
     body {
     font-family: Arial, Helvetica, sans-serif;
     }
-
+    /*52658F
+ 333A56
+ F7F5E6*/
     /* Style the header */
     header {
-    background-color: #666;
+    background-color: #52658F;
     padding: 30px;
     text-align: center;
     font-size: 35px;
-    color: white;
+    color: #F7F5E6
     }
 
     /* Container for flexboxes */
@@ -26,7 +28,7 @@
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    background: #ccc;
+    background: #F7F5E6;
     padding: 20px;
     }
 
@@ -47,8 +49,8 @@
 
     /* Style the footer */
     footer {
-    background-color: #777;
+    background-color: #333A56;
     padding: 10px;
     text-align: center;
-    color: white;
+    color: #f1f1f1;
     }
